@@ -1,14 +1,10 @@
-## vite + React + TypeScript Setup
+## [vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/) Starter
 
-This setup will include:
-* eslint, eslint-airbnb-config, prettier
-* vitest, jsdom, @testing-library
-* react-router
-
-* [x] Generate Vite + TypeScript App
-* [x] Setup eslint + typescript + prettier
-* [x] Setup vitest, jsdom, @testing-library 
-* [x] Setup react-router
+This setup includes:
+* [vite](https://vitejs.dev/)
+* [eslint](https://eslint.org/), [typescript-eslint](https://typescript-eslint.io/), [eslint-airbnb-config](https://github.com/airbnb/javascript), [prettier](https://prettier.io/)
+* [vitest](https://vitest.dev/), [jsdom](https://github.com/jsdom/jsdom), [@testing-library](https://testing-library.com/)
+* [react-router v6](https://reactrouter.com/en/main)
 
 # References
 
