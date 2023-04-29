@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "test": "vitest"
+    "test": "vitest",
+    "prepare": "husky install"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -31,7 +32,9 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.0",
     "jsdom": "^21.1.1",
+    "lint-staged": "^13.2.2",
     "prettier": "^2.8.7",
     "typescript": "^5.0.3",
     "vite": "^4.2.1",
