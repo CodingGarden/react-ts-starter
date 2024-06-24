@@ -18,7 +18,7 @@
     "types": ["vitest/globals"]
   },
   "include": [
-    "vite.config.ts",
+    ".prettierrc.cjs",
     ".eslintrc.cjs",
     "src"
   ],
